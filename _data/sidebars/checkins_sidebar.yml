@@ -1,0 +1,45 @@
+# Sidebar TOC for the Checkins Application
+
+entries:
+  - title: Sidebar
+    product: Nightly Checkins
+    version: 1.0
+    folders:
+
+      # TODO - pdf frontmatter?
+
+      - title: User Documentation
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /checkins_user_overview.html
+            output: web, pdf
+          - title: Starting the Day
+            url: /checkins_user_starting.html
+            output: web, pdf
+          - title: Checking In Guests
+            url: /checkins_user_checkins.html
+            output: web, pdf
+          - title: Adjusting Checkins
+            url: /checkins_user_adjusting.html
+            output: web, pdf
+
+      - title: Administrator Documentation
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /checkins_admin_overview.html
+            output: web, pdf
+#          - title: Facilities
+#          url: /checkins_admin_facilities.html
+#          output: web, pdf
+#        - title: Guests
+#          url: /checkins_admin_guests.html
+#          output: web, pdf
+#        - title: Templates
+#          url: /checkins_admin_templates.html
+#          output: web, pdf
+#        - title: MERGE Guests
+#          url: /checkins_admin_merge.html
+#          output: web, pdf
+

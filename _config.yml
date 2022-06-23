@@ -15,13 +15,13 @@ site_title: CityTeam Applications Documentation
 company_name: CityTeam Ministries
 # this appears in the footer
 
-github_editme_path: cityteam/checkins-pages/blob/gh-pages/
+#github_editme_path: cityteam/cityteam.github.io/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics:
+google_analytics: ""
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
