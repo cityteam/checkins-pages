@@ -48,9 +48,9 @@ entries:
           - title: Logging In
             url: /checkins_admin_overview.html
             output: web, pdf
-#          - title: Facilities
-#          url: /checkins_admin_facilities.html
-#          output: web, pdf
+          - title: Manage Facilities
+            url: /checkins_admin_facilities.html
+            output: web, pdf
 #        - title: Guests
 #          url: /checkins_admin_guests.html
 #          output: web, pdf

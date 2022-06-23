@@ -32,4 +32,6 @@ welcomed to the application on it's "Home" page:
 
 {% include image.html file="checkins/loggedin.png" caption="Logged In Screen" %}
 
+## Now what can I do?
+
 See [Starting the Day](checkins_user_starting) for the next step.
