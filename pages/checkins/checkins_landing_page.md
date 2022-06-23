@@ -17,8 +17,8 @@ overnight stay Guests at a CityTeam Facility, and providing reports on
 overall Guest stay statistics.  The information covered is targeted for
 different user types, with separate pages customized to your needs:
 
-| Your Task | Description |
-| --------- | ----------- |
-| [I need to check in Guests](checkins_user_overview) | This is the primary function of thi appliation, where you register each individual and assign them a mat (or other sleeping arrangement). |
+| Your Task | Description                                                                                                                                                                                                           |
+| --------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [I need to check in Guests](checkins_user_overview) | This is the primary function of this application, where you register each individual and assign them a mat (or other sleeping arrangement).                                                                           |
 | [I need to administer the Facility and its related information](checkins_admin_overview) | Your username and password will provide access to additional features that let you set up the required information for your CityTeam Facility, as well as edit information about each Guest that has ever checked in. |
 

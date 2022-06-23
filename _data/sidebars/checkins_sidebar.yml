@@ -6,7 +6,18 @@ entries:
     version: 2.0
     folders:
 
-      # TODO - pdf frontmatter?
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /checkins_titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /checkins_tocpage.html
+            output: pdf
+            type: frontmatter
 
       - title: Welcome
         output: web

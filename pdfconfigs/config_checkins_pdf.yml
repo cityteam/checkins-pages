@@ -1,0 +1,19 @@
+destination: _site/
+url: "http://127.0.0.1:4010"
+baseurl: "/checkins-pdf"
+port: 4010
+product: checkins
+print_title: CityTeam Checkins Application
+print_subtitle: Version 2.0
+output: pdf
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page_print"
+      comments: true
+      search: true
+
+pdf_sidebar: checkins_sidebar
