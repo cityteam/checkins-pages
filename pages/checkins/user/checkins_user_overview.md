@@ -1,12 +1,12 @@
 ---
-title: User Overview
+title: Logging In
 sidebar: checkins_sidebar
 toc: true
 permalink: checkins_user_overview.html
 folder: checkins/user
 ---
 
-## How do I get into the application?
+## How do I find the application?
 
 You will be using a standard web browser to operate the application.  The URL
 to access it will depend on how and where the application is installed.  For

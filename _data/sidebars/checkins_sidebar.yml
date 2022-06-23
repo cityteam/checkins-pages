@@ -3,7 +3,7 @@
 entries:
   - title: Sidebar
     product: Nightly Checkins
-    version: 1.0
+    version: 2.0
     folders:
 
       # TODO - pdf frontmatter?
@@ -11,7 +11,7 @@ entries:
       - title: User Documentation
         output: web, pdf
         folderitems:
-          - title: Overview
+          - title: Logging In
             url: /checkins_user_overview.html
             output: web, pdf
           - title: Starting the Day
@@ -20,14 +20,14 @@ entries:
           - title: Checking In Guests
             url: /checkins_user_checkins.html
             output: web, pdf
-          - title: Adjusting Checkins
+          - title: Adjusting Existing Checkins
             url: /checkins_user_adjusting.html
             output: web, pdf
 
       - title: Administrator Documentation
         output: web, pdf
         folderitems:
-          - title: Overview
+          - title: Logging In
             url: /checkins_admin_overview.html
             output: web, pdf
 #          - title: Facilities
