@@ -8,6 +8,13 @@ entries:
 
       # TODO - pdf frontmatter?
 
+      - title: Welcome
+        output: web
+        folderitems:
+          - title: Welcome
+            url: /checkins_landing_page.html
+            output: web, pdf
+
       - title: User Documentation
         output: web, pdf
         folderitems:
