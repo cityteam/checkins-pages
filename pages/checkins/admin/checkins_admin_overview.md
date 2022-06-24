@@ -1,5 +1,5 @@
 ---
-title: Logging In
+title: Overview / Logging In
 sidebar: checkins_sidebar
 toc: true
 permalink: checkins_admin_overview.html

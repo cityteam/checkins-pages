@@ -29,7 +29,7 @@ entries:
       - title: User Documentation
         output: web, pdf
         folderitems:
-          - title: Logging In
+          - title: Overview / Logging In
             url: /checkins_user_overview.html
             output: web, pdf
           - title: Starting the Day
@@ -45,19 +45,21 @@ entries:
       - title: Administrator Documentation
         output: web, pdf
         folderitems:
-          - title: Logging In
+          - title: Overview / Logging In
             url: /checkins_admin_overview.html
             output: web, pdf
           - title: Manage Facilities
             url: /checkins_admin_facilities.html
             output: web, pdf
-#        - title: Guests
-#          url: /checkins_admin_guests.html
-#          output: web, pdf
-#        - title: Templates
-#          url: /checkins_admin_templates.html
-#          output: web, pdf
-#        - title: MERGE Guests
-#          url: /checkins_admin_merge.html
-#          output: web, pdf
-
+          - title: Manage Guests
+            url: /checkins_admin_guests.html
+            output: web, pdf
+          - title: Manage Templates
+            url: /checkins_admin_templates.html
+            output: web, pdf
+          - title: Manage Users
+            url: /checkins_admin_users.html
+            output: web, pdf
+          - title: MERGE Guests
+            url: /checkins_admin_merge.html
+            output: web, pdf
