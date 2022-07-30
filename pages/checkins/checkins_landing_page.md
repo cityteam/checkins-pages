@@ -14,8 +14,10 @@ in several US cities.  See their website for more information.
 
 This application is designed to assist CityTeam Facilities in checking in
 overnight stay Guests at a CityTeam Facility, and providing reports on
-overall Guest stay statistics.  The information covered is targeted for
-different user types, with separate pages customized to your needs:
+overall Guest stay statistics.
+
+The information covered is targeted for different user types, with separate
+pages customized to meet your needs:
 
 | Your Task | Description                                                                                                                                                                                                           |
 | --------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

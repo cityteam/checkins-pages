@@ -30,8 +30,8 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Product 2
           url: /p2_landing_page.html
-#        - title: Daily Statistics
-#          url: /stats_landing_page.html
+        - title: Daily Statistics
+          url: /stats_landing_page.html
         - title: Nightly Checkins
           url: /checkins_landing_page.html
 

@@ -1,0 +1,43 @@
+# Sidebar TOC for the Stats Application
+
+entries:
+  - title: Sidebar
+    product: Daily Stats Entry
+    version: 2.0
+    folders:
+
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /stats_titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /stats_tocpage.html
+            output: pdf
+            type: frontmatter
+
+      - title: Welcome
+        output: web
+        folderitems:
+          - title: Welcome
+            url: /stats_landing_page.html
+            output: web, pdf
+
+      - title: User Documentation
+        output: web, pdf
+        folderitems:
+          - title: Overview / Logging In
+            url: /stats_user_overview.html
+            output: web, pdf
+          - title: Starting the Day
+            output: web, pdf
+
+      - title: Administrator Documentation
+        output: web, pdf
+        folderitems:
+          - title: Overview / Logging In
+            url: /stats_admin_overview.html
+
