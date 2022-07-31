@@ -32,7 +32,8 @@ entries:
           - title: Overview / Logging In
             url: /stats_user_overview.html
             output: web, pdf
-          - title: Starting the Day
+          - title: Entering Data
+            url: /stats_user_entering.html
             output: web, pdf
 
       - title: Administrator Documentation
