@@ -41,9 +41,10 @@ might look like this:
 
 {% include image.html file="stats/entering-second.png" caption="Values Entered but not yet Saved" %}
 
-Note that the `Save` button for the Meals Provided section is now active.  Press
-`Save` to cause the values in this *Section* to be saved.  This also applies if you
-go back and update values later -- be sure to press or touch `Save` afterwards.
+Note that the `Save` button for the Meals Provided section is now active.  Click
+or touch `Save` to cause the values in this *Section* to be saved.  This also
+applies if you go back and update values later -- be sure to click or touch
+`Save` afterwards.
 
 ## Log off when you are done
 
