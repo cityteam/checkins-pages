@@ -28,6 +28,19 @@ to work well:
 * [Microsoft Visual Studio Code](https://code.visualstudio.com)
 * [IntelliJ Idea](https://www.jetbrains.com/idea)
 
+## HTTP Development Tool Installation
+
+[Postman](https://postman.com/downloads) is an incredibly useful tool
+for exercising HTTP transactions against the server portion of this
+application, whether or not the client portion is
+actually sending the correct inputs (or if that client support
+has even been implemented yet).
+
+HINT:  If you run your server in development mode (`OAUTH_ENABLED=false`
+in the environment variables), you will not have to worry about acquiring
+an access token and configuring Postman to use it.  However, you should
+always ensure that it works in production mode (`OAUTH_ENABLED=true`) as well.
+
 ## Database Environment Installation
 
 The following steps will guide you through installing and configuring
@@ -341,7 +354,7 @@ When you are through, use Control+C in the server's command line window
 to terminate it.
 
 
-## (Optional) Set Up Run Shortcuts
+### (Optional) Set Up Run Shortcuts
 
 If your development environment supports it, you will find it convenient
 to set up shortcuts that will execute the various NPM scripts for either
