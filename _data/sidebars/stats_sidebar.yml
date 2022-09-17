@@ -41,4 +41,18 @@ entries:
         folderitems:
           - title: Overview / Logging In
             url: /stats_admin_overview.html
+            output: web, pdf
+
+      - title: Developer Documentation
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /stats_develop_overview.html
+            output: web, pdf
+          - title: Cheat Sheet
+            url: /stats_develop_cheatsheet.html
+            output: web, pdf
+          - title: Installation
+            url: /stats_develop_installation.html
+            output: web, pdf
 
