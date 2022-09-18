@@ -55,4 +55,16 @@ entries:
           - title: Installation
             url: /stats_develop_installation.html
             output: web, pdf
+          - title: Design - Overview
+            url: /stats_develop_design.html
+            output: web, pdf
+          - title: Design - Database and Models
+            url: /stats_develop_design_database.html
+            output: web, pdf
+          - title: Design - REST APIs and Routers
+            url: /stats_develop_design_routers.html
+            output: web, pdf
+          - title: Design - Services
+            url: /stats_develop_design_services.html
+            output: web, pdf
 
